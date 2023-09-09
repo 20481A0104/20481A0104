@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Food Ordering App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **We Development**
 
 - 📫 How to reach me **bathulabhanuprakash@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **I love to learn and trying new things**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
