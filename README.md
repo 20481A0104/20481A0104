@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bathulabhanuprakash@gmail.com**
 
-- ⚡ Fun fact **I love to learn and trying new things**
+- ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
