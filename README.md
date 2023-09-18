@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20481a0104&label=Profile%20views&color=0e75b6&style=flat" alt="20481a0104" /> </p>
 
-- 🔭 I’m currently working on **Food Ordering App**
+- 🔭 I’m currently working on **Fullstack Blof App**
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **We Development**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **bathulabhanuprakash@gmail.com**
 
