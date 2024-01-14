@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=20481a0104&label=Profile%20views&color=0e75b6&style=flat" alt="20481a0104" /> </p>
 
-- 🔭 I’m currently working on **Fullstack Blof App**
+- 🔭 I’m currently working on **Fullstack Blog App**
 
 - 🌱 I’m currently learning **MERN**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **bathulabhanuprakash@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am super cool**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
