@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/OIP.4fNBO_UDYEVxM0E5T2FyJQHaFj?pid=ImgDet&rs=1"
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=20481a0104&label=Profile%20views&color=0e75b6&style=flat" alt="20481a0104" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhanub7&label=Profile%20views&color=0e75b6&style=flat" alt="bhanub7" /> </p>
 
 - 🔭 I’m currently working on **Fullstack Blog App**
 
